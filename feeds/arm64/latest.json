@@ -1,18 +1,18 @@
 {
   "name": "WikiTrail",
   "bundle_id": "com.johnjim0816.filetrail",
-  "version": "0.12.2",
-  "build": "45",
+  "version": "0.12.3",
+  "build": "46",
   "architecture": "arm64",
   "minimum_macos": "14.0",
-  "filename": "FileTrail-0.12.2-arm64.dmg",
-  "size": 4411581,
-  "sha256": "1844ef4de78cd088f35141c9a73ccd9a5c12b4551fe2ef4b5da0f087ef6cde1f",
-  "source_commit": "989c79ee23595e1dd0db93c44366e885e74e69fb",
-  "packaged_at": "2026-11-24T16:07:09.803233+00:00",
+  "filename": "FileTrail-0.12.3-arm64.dmg",
+  "size": 4437373,
+  "sha256": "f2039a5feaff7d45eb3bf6f1dc1d3a7d7779e20d6175bfb2c7f9bd5eb7e3ac66",
+  "source_commit": "8c3b8c68bbb8c2f1bb9bb554ccb91f0f943e99ef",
+  "packaged_at": "2026-11-25T02:29:35.461459+00:00",
   "notarization": {
     "status": "Accepted",
-    "id": "0849a12c-daca-4886-b1ae-a0c487376493"
+    "id": "d1a02d38-4d1c-43dd-aad4-587a472ad6e4"
   },
   "app_update_supported": true,
   "update_mode": "confirmed-restart-dmg"
